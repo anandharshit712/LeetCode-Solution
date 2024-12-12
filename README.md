@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0382-linked-list-random-node](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0382-linked-list-random-node) |
 ## Math
 |  |
