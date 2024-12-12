@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0658-find-k-closest-elements](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0658-find-k-closest-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -35,4 +36,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0382-linked-list-random-node) |
+## Array
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0658-find-k-closest-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0658-find-k-closest-elements) |
+## Binary Search
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0658-find-k-closest-elements) |
+## Sorting
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0658-find-k-closest-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
