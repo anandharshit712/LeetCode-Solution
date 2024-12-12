@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0382-linked-list-random-node) |
+| [1013-fibonacci-number](https://github.com/anandharshit712/LeetCode-Solution/tree/master/1013-fibonacci-number) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -56,4 +57,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0658-find-k-closest-elements) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/anandharshit712/LeetCode-Solution/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/anandharshit712/LeetCode-Solution/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/anandharshit712/LeetCode-Solution/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
