@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0658-find-k-closest-elements) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/anandharshit712/LeetCode-Solution/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
 |  |
 | ------- |
