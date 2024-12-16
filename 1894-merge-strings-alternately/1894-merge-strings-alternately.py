@@ -9,4 +9,4 @@ class Solution:
             result += word1[smaller_list:]
         else:
             result += word2[smaller_list:]
-        return "".join(result)
+        return result
