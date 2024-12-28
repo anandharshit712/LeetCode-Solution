@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0605-can-place-flowers) |
 | [0658-find-k-closest-elements](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0658-find-k-closest-elements) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1063-best-sightseeing-pair](https://github.com/anandharshit712/LeetCode-Solution/tree/master/1063-best-sightseeing-pair) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/anandharshit712/LeetCode-Solution/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0392-is-subsequence) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1013-fibonacci-number](https://github.com/anandharshit712/LeetCode-Solution/tree/master/1013-fibonacci-number) |
 | [1063-best-sightseeing-pair](https://github.com/anandharshit712/LeetCode-Solution/tree/master/1063-best-sightseeing-pair) |
 ## Recursion
