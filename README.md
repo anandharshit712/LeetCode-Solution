@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0443-string-compression](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/anandharshit712/LeetCode-Solution/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/anandharshit712/LeetCode-Solution/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1894-merge-strings-alternately](https://github.com/anandharshit712/LeetCode-Solution/tree/master/1894-merge-strings-alternately) |
 ## Divide and Conquer
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1063-best-sightseeing-pair](https://github.com/anandharshit712/LeetCode-Solution/tree/master/1063-best-sightseeing-pair) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/anandharshit712/LeetCode-Solution/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/anandharshit712/LeetCode-Solution/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 ## Two Pointers
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1013-fibonacci-number](https://github.com/anandharshit712/LeetCode-Solution/tree/master/1013-fibonacci-number) |
 | [1063-best-sightseeing-pair](https://github.com/anandharshit712/LeetCode-Solution/tree/master/1063-best-sightseeing-pair) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/anandharshit712/LeetCode-Solution/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 ## Recursion
 |  |
 | ------- |
