@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/anandharshit712/LeetCode-Solution/tree/master/1013-fibonacci-number) |
 | [1063-best-sightseeing-pair](https://github.com/anandharshit712/LeetCode-Solution/tree/master/1063-best-sightseeing-pair) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/anandharshit712/LeetCode-Solution/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2562-count-ways-to-build-good-strings](https://github.com/anandharshit712/LeetCode-Solution/tree/master/2562-count-ways-to-build-good-strings) |
 ## Recursion
 |  |
 | ------- |
