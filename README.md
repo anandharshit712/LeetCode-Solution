@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0203-remove-linked-list-elements) |
 | [0382-linked-list-random-node](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0382-linked-list-random-node) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/anandharshit712/LeetCode-Solution/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0443-string-compression) |
 | [0658-find-k-closest-elements](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0658-find-k-closest-elements) |
 | [1894-merge-strings-alternately](https://github.com/anandharshit712/LeetCode-Solution/tree/master/1894-merge-strings-alternately) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/anandharshit712/LeetCode-Solution/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
