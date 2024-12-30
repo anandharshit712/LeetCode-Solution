@@ -3,30 +3,18 @@
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
-def length(node):
-        if (not node): 
-            return 0
-        else:
-            return 1 + length(node.next)
 class Solution:
-    
     def deleteMiddle(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        n = length(head)
-        middle_node = n // 2
+        dummy = ListNode(0)
+        dummy.next = head
+        fast = head
+        slow = dummy
 
-        if not head:
-            return
-        if middle_node == 0:
-            head = head.next
-            return
-        curr = head
-        count = 0
-        while curr and count < middle_node - 1:
-            curr = curr.next
-            count += 1
-        if not curr or not curr.next:
-            return
-        curr.next = curr.next.next
+        while fast and fast.next:
+            fast = fast.next.next
+            slow = slow.next
 
-        return head
+        slow.next = slow.next.next
+
+        return dummy.next
         
