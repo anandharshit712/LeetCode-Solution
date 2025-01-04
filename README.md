@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/anandharshit712/LeetCode-Solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## String
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/anandharshit712/LeetCode-Solution/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/anandharshit712/LeetCode-Solution/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1894-merge-strings-alternately](https://github.com/anandharshit712/LeetCode-Solution/tree/master/1894-merge-strings-alternately) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/anandharshit712/LeetCode-Solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -121,5 +123,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0238-product-of-array-except-self) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/anandharshit712/LeetCode-Solution/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/anandharshit712/LeetCode-Solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/anandharshit712/LeetCode-Solution/tree/master/2358-number-of-ways-to-split-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/anandharshit712/LeetCode-Solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 <!---LeetCode Topics End-->
