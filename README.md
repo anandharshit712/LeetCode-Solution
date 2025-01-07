@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0066-plus-one) |
 | [0382-linked-list-random-node](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0382-linked-list-random-node) |
+| [0830-largest-triangle-area](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/anandharshit712/LeetCode-Solution/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/anandharshit712/LeetCode-Solution/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Reservoir Sampling
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0605-can-place-flowers) |
 | [0658-find-k-closest-elements](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0658-find-k-closest-elements) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0830-largest-triangle-area](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0830-largest-triangle-area) |
 | [1025-minimum-cost-for-tickets](https://github.com/anandharshit712/LeetCode-Solution/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/anandharshit712/LeetCode-Solution/tree/master/1063-best-sightseeing-pair) |
 | [1524-string-matching-in-an-array](https://github.com/anandharshit712/LeetCode-Solution/tree/master/1524-string-matching-in-an-array) |
@@ -168,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2573-remove-nodes-from-linked-list](https://github.com/anandharshit712/LeetCode-Solution/tree/master/2573-remove-nodes-from-linked-list) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
