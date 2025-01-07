@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0050-powx-n) |
 | [0382-linked-list-random-node](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0382-linked-list-random-node) |
 | [1013-fibonacci-number](https://github.com/anandharshit712/LeetCode-Solution/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/anandharshit712/LeetCode-Solution/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0203-remove-linked-list-elements) |
 | [1013-fibonacci-number](https://github.com/anandharshit712/LeetCode-Solution/tree/master/1013-fibonacci-number) |
 ## Memoization
