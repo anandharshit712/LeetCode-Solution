@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0443-string-compression](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/anandharshit712/LeetCode-Solution/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1524-string-matching-in-an-array](https://github.com/anandharshit712/LeetCode-Solution/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/anandharshit712/LeetCode-Solution/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/anandharshit712/LeetCode-Solution/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1894-merge-strings-alternately](https://github.com/anandharshit712/LeetCode-Solution/tree/master/1894-merge-strings-alternately) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/anandharshit712/LeetCode-Solution/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/anandharshit712/LeetCode-Solution/tree/master/1063-best-sightseeing-pair) |
+| [1524-string-matching-in-an-array](https://github.com/anandharshit712/LeetCode-Solution/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/anandharshit712/LeetCode-Solution/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/anandharshit712/LeetCode-Solution/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/anandharshit712/LeetCode-Solution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/anandharshit712/LeetCode-Solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/anandharshit712/LeetCode-Solution/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
