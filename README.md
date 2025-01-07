@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0382-linked-list-random-node) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/anandharshit712/LeetCode-Solution/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/anandharshit712/LeetCode-Solution/tree/master/2573-remove-nodes-from-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0203-remove-linked-list-elements) |
 | [1013-fibonacci-number](https://github.com/anandharshit712/LeetCode-Solution/tree/master/1013-fibonacci-number) |
+| [2573-remove-nodes-from-linked-list](https://github.com/anandharshit712/LeetCode-Solution/tree/master/2573-remove-nodes-from-linked-list) |
 ## Memoization
 |  |
 | ------- |
@@ -153,4 +155,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/anandharshit712/LeetCode-Solution/tree/master/1524-string-matching-in-an-array) |
+## Stack
+|  |
+| ------- |
+| [2573-remove-nodes-from-linked-list](https://github.com/anandharshit712/LeetCode-Solution/tree/master/2573-remove-nodes-from-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2573-remove-nodes-from-linked-list](https://github.com/anandharshit712/LeetCode-Solution/tree/master/2573-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
