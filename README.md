@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0050-powx-n) |
 | [0382-linked-list-random-node](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0382-linked-list-random-node) |
 | [1013-fibonacci-number](https://github.com/anandharshit712/LeetCode-Solution/tree/master/1013-fibonacci-number) |
