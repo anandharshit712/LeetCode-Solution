@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0066-plus-one) |
 | [0382-linked-list-random-node](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0382-linked-list-random-node) |
 | [1013-fibonacci-number](https://github.com/anandharshit712/LeetCode-Solution/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/anandharshit712/LeetCode-Solution/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0066-plus-one) |
 | [0238-product-of-array-except-self](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0334-increasing-triplet-subsequence) |
