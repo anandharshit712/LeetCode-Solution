@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0409-longest-palindrome) |
 | [0952-word-subsets](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0952-word-subsets) |
+| [1502-construct-k-palindrome-strings](https://github.com/anandharshit712/LeetCode-Solution/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/anandharshit712/LeetCode-Solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## String
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0443-string-compression) |
 | [0952-word-subsets](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0952-word-subsets) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/anandharshit712/LeetCode-Solution/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1502-construct-k-palindrome-strings](https://github.com/anandharshit712/LeetCode-Solution/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/anandharshit712/LeetCode-Solution/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/anandharshit712/LeetCode-Solution/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/anandharshit712/LeetCode-Solution/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0605-can-place-flowers) |
+| [1502-construct-k-palindrome-strings](https://github.com/anandharshit712/LeetCode-Solution/tree/master/1502-construct-k-palindrome-strings) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -201,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/anandharshit712/LeetCode-Solution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Counting
+|  |
+| ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/anandharshit712/LeetCode-Solution/tree/master/1502-construct-k-palindrome-strings) |
 <!---LeetCode Topics End-->
