@@ -211,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/anandharshit712/LeetCode-Solution/tree/master/1502-construct-k-palindrome-strings) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
