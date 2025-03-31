@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0409-longest-palindrome) |
+| [0697-degree-of-an-array](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0697-degree-of-an-array) |
 | [0952-word-subsets](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/anandharshit712/LeetCode-Solution/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/anandharshit712/LeetCode-Solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0605-can-place-flowers) |
 | [0658-find-k-closest-elements](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0658-find-k-closest-elements) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0697-degree-of-an-array](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0697-degree-of-an-array) |
 | [0830-largest-triangle-area](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0830-largest-triangle-area) |
 | [0952-word-subsets](https://github.com/anandharshit712/LeetCode-Solution/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/anandharshit712/LeetCode-Solution/tree/master/1025-minimum-cost-for-tickets) |
